@@ -1,7 +1,8 @@
 # vagrant-kvm-libvirt-travisci
 
-Travis (.com) dev branch:
-[![Build Status](https://travis-ci.com/githubfoam/minikube-linkerd-travis.svg?branch=dev)](https://travis-ci.com/githubfoam/minikube-linkerd-travis)  
+[![linuxci](https://github.com/githubfoam/minikube-linkerd-travis/workflows/linuxci/badge.svg)](https://github.com/githubfoam/minikube-linkerd-travis/actions?query=workflow%3A%linuxci%22+branch%3Adev)
+
+[![osmatrix](https://github.com/githubfoam/minikube-linkerd-travis/workflows/osmatrix/badge.svg)](https://github.com/githubfoam/minikube-linkerd-travis/actions?query=workflow%3A%osmatrix%22+branch%3Adev) 
 
 ~~~~
 Installing Linkerd
