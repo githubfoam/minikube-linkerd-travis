@@ -19,7 +19,7 @@ jobs:
       uses: actions/checkout@v1
     - name: os fingerprinting
       run: hostnamectl status
-    - name: istio latest minikube wo snaps latest
+    - name: linkerd minikube latest wo snaps latest
       run: |
             sudo make deploy-minikube-latest
             sudo make deploy-linkerd  
